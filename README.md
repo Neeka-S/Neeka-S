@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neeka S
 - 👀 Job seeker with Full stack Developer.
 - 🌱 I’m currently doing Internship in Inbox Info Solution.
-- 💞️ I’m Leraning python as Full Stack. 
+- 💞️ I’m Leraning python as Full Stack.  
 - 📫 To reach me neekaselvam55@gmail.com 
  
 <!---
